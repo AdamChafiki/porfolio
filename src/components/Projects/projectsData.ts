@@ -18,11 +18,11 @@ import {
   ecomm3,
   ecomm4,
   ecomm5,
+  go,
   int1,
   int10,
   int2,
   int3,
-
   int6,
   int8,
 } from "../../assets/projects";
@@ -190,5 +190,19 @@ export const projects: Project[] = [
       "SpringSecurity",
       "MySql",
     ],
+  },
+  {
+    title: "GoBoard-Store-Analytics-Dashboard",
+    description:
+      "AboutGoBoard's sleek and modern Store Analytics Dashboard provides a user-friendly experience",
+    images: [
+      {
+        url: go,
+        caption: "go",
+      },
+    ],
+    github: "https://github.com/AdamChafiki/GoBoard-Store-Analytics-Dashboard",
+    live: "https://go-board-store-analytics-dashboard.vercel.app/",
+    technologies: ["TailwindCSS"],
   },
 ];

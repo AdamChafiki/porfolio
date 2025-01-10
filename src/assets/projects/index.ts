@@ -56,6 +56,7 @@ import int8 from "./internship/int8.png";
 
 import int10 from "./internship/int10.png";
 
+import go from "./goBoStore/go.png"
 
 
 
@@ -85,5 +86,6 @@ export  {
     int3,
     int6,
     int8,
-    int10
+    int10,
+    go
 }
