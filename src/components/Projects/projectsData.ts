@@ -203,6 +203,6 @@ export const projects: Project[] = [
     ],
     github: "https://github.com/AdamChafiki/GoBoard-Store-Analytics-Dashboard",
     live: "https://go-board-store-analytics-dashboard.vercel.app/",
-    technologies: ["TailwindCSS"],
+    technologies: ["TailwindCSS","chartJs","HTML"],
   },
 ];
